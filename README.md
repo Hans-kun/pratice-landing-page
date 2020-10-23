@@ -1,0 +1,1 @@
+Hello world I followed a tutorial off youtube to make this beautiful landing page and i decided to add my own stuffs to make it look unique. I add videos instead of pictures and made the web page very responsive no too much functionality just a navbar a button to click although the buttons don't respond cus its a static web page. Thank you and i hope you like it.
